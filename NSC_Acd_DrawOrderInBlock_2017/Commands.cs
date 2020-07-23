@@ -201,9 +201,8 @@ namespace NSC_Acd_DrawOrderInBlock
         }
 
         if (col.Count > 0)
-        {
           doTbl.MoveToBottom(col);
-        }
+
 
         tran.Commit();
       }
