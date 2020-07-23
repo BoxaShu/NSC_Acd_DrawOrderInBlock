@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSC_Acd_DrawOrderInBlock_2017", "NSC_Acd_DrawOrderInBlock_2017\NSC_Acd_DrawOrderInBlock_2017.csproj", "{7104D487-94F3-409B-A456-4FBC5C39BEE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7104D487-94F3-409B-A456-4FBC5C39BEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7104D487-94F3-409B-A456-4FBC5C39BEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7104D487-94F3-409B-A456-4FBC5C39BEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7104D487-94F3-409B-A456-4FBC5C39BEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA2F45B5-A96F-41A0-9012-697173F31EF1}
+	EndGlobalSection
+EndGlobal
